@@ -1,2 +1,3 @@
 # Hello-world
-new repositoy
+Hi everyone,
+i'm Gaels and i have interesse in Java.
